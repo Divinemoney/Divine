@@ -1,0 +1,2 @@
+# Divine
+Always verify code
